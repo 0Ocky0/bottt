@@ -1,5 +1,4 @@
 import telebot
-import random
 from telebot import types
 
 # 5849232589:AAFRIjVtOzw54sQHO957xTDAxThM7N_Uouc
