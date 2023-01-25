@@ -1,3 +1,8 @@
+
+
+#pip install pyTelegramBotAPI
+
+
 import telebot
 from telebot import types
 
